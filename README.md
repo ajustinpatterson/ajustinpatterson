@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, Graphql, Redux**
 
-- 👨‍💻 All of my projects are available at [github.com/ajustinpatterson](github.com/ajustinpatterson)
+- 👨‍💻 All of my projects are available here!
 
 - 💬 Ask me about **light_box**
 
