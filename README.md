@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ajustinpatterson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajustinpatterson" height="30" width="40" /></a>
 <a href="https://instagram.com/ajustinpatterson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ajustinpatterson" height="30" width="40" /></a>
+<a href="https://medium.com/@ajustinpatterson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ajustinpatterson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
