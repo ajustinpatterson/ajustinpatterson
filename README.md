@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Swift Video Meetings](https://github.com/ajustinpatterson/swifter-server.git)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Storybook**
 
 - 👨‍💻 All of my projects are available here!
 
