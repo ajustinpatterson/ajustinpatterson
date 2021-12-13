@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👾, I'm Justin</h1>
 <h3 align="center">A dedicated full-stack developer living in Barcelona</h3>
 
-- 🔭 I’m currently working on [Swift Video Meetings](https://github.com/ajustinpatterson/swifter-server.git)
+- 🔭 I’m currently working at [Openbravo](https://www.openbravo.com)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available here!
 
