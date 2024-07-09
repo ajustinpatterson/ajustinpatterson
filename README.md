@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👾, I'm Justin</h1>
 <h3 align="center">A dedicated full-stack developer living in Barcelona</h3>
 
-- 🔭 I’m currently working at [Openbravo](https://www.openbravo.com)
+- 🔭 I’m currently working at [Allianz Technology](https://tech.allianz.com)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **react-spring**
 
 - 👨‍💻 All of my projects are available here!
 
