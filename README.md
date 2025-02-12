@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at [Allianz Technology](https://tech.allianz.com)
 
-- 🌱 I’m currently learning **react-spring**
+- 🌱 I’m currently learning **MobX**
 
 - 👨‍💻 All of my projects are available here!
 
-- 💬 Ask me about **light_box**
+- 💬 Ask me about **Microservice Architecture**
 
 - 📫 How to reach me **ajustinpatterson@outlook.com**
 
