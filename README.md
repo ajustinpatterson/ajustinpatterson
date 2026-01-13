@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at [Allianz Technology](https://tech.allianz.com)
 
-- 🌱 I’m currently learning **MobX**
+- 🌱 I’m currently learning **MFE architecture**
 
 - 👨‍💻 All of my projects are available here!
 
-- 💬 Ask me about **Microservice Architecture**
+- 💬 Ask me about **Angular Signlas**
 
 - 📫 How to reach me **ajustinpatterson@outlook.com**
 
