@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available here!
 
-- 💬 Ask me about **Angular Signlas**
+- 💬 Ask me about **Angular Signals**
 
 - 📫 How to reach me **ajustinpatterson@outlook.com**
 
